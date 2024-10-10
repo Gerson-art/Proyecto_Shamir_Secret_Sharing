@@ -21,4 +21,4 @@ Este proyecto implementa el esquema de Shamir para compartir una clave criptogr√
 ## Instalaci√≥n
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/Gerson-art/Proyecto_Shamir_Secret_Sharing.git
