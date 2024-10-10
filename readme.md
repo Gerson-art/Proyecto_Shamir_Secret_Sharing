@@ -7,11 +7,7 @@ Este proyecto implementa el esquema de Shamir para compartir una clave criptogr�
 - [Características](#características)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Instalación](#instalación)
-- [Uso](#uso)
-- [Metodología](#metodología)
-- [Análisis de Seguridad](#análisis-de-seguridad)
-- [Conclusiones](#conclusiones)
-- [Licencia](#licencia)
+
 
 ## Características
 - Compartición de clave utilizando el esquema de Shamir.
