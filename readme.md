@@ -17,3 +17,8 @@ Este proyecto implementa el esquema de Shamir para compartir una clave criptogr�
 ## Tecnologías Utilizadas
 - Python 3.x
 - Bibliotecas: [incluir aquí las bibliotecas que estés utilizando, por ejemplo, `numpy`, `cryptography`, etc.]
+
+## Instalación
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
